@@ -8,12 +8,12 @@ const ContactUs=()=>{
                 <div className="flex justify-between">
                     <img src="https://res.cloudinary.com/dbs6hvga4/image/upload/v1716744981/Group_103_hubco7.png"/>
                     <div className="flex flex-col justify-center mr-24">
-                        <h1 className="text-4xl font-bold">FEATURES</h1>
+                        <h1 className="text-4xl font-bold">CONTACT US</h1>
                     </div>
                 </div>
            </div>
            <div className="flex flex-col items-center p-16 pb-24">
-                <div className="rounded-full bg-lime-100 flex justify-center items-center px-8 py-2">Features</div>
+                <div className="rounded-full bg-lime-100 flex justify-center items-center px-8 py-2">contact us</div>
                 <h1 className="text-3xl font-semibold mt-7">CONTACT US</h1>
                 <div className="w-3/4 box-border p-16 rounded-lg flex gap-16 shadow-card mt-16">
                     <div className="w-2/3 pr-8 border-r-2 border-sky-500">
